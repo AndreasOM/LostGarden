@@ -14,3 +14,9 @@ This is a cleaned up version, which might be of help to you ... or it may not.
 ### Sinistar
 "[Sinistar](http://www.lostgarden.com/2005/03/download-complete-set-of-sweet-8-bit.html)" art by Daniel Cook (Lostgarden.com)
 
+Work in progress!
+Might change at any time.
+
+I only work on this around 15 minutes every day during my lunchbreaks,
+so it might take a while until it's finished.
+
