@@ -54,3 +54,75 @@ cp tmp/Beacon-13.png omni-mad/beacon-0-02-01.png
 cp tmp/Beacon-14.png omni-mad/beacon-0-02-02.png
 cp tmp/Beacon-15.png omni-mad/beacon-0-02-03.png
 
+convert original/Blood1.bmp -transparent '#000000' -crop 24x24 PNG32:tmp/Blood1.png
+cp tmp/Blood1-0.png  omni-mad/blood-1-00-00.png
+cp tmp/Blood1-1.png  omni-mad/blood-1-00-01.png
+cp tmp/Blood1-2.png  omni-mad/blood-1-00-02.png
+cp tmp/Blood1-3.png  omni-mad/blood-1-00-03.png
+cp tmp/Blood1-4.png  omni-mad/blood-1-00-04.png
+cp tmp/Blood1-5.png  omni-mad/blood-1-00-05.png
+
+convert original/bomb1.bmp -transparent '#000000' -crop 24x24 PNG32:tmp/bomb1.png
+cp tmp/bomb1-0.png  omni-mad/bomb-1-00-00.png
+cp tmp/bomb1-1.png  omni-mad/bomb-1-00-01.png
+cp tmp/bomb1-2.png  omni-mad/bomb-1-00-02.png
+
+convert original/bubble.bmp -transparent '#000000' -crop 48x48 PNG32:tmp/bubble.png
+cp tmp/bubble-0.png  omni-mad/bubble-big-00-00.png
+cp tmp/bubble-1.png  omni-mad/bubble-big-00-01.png
+
+convert original/bubble.bmp -transparent '#000000' -crop 24x24+0+48  PNG32:omni-mad/bubble-small-00-00.png
+convert original/bubble.bmp -transparent '#000000' -crop 24x24+24+48 PNG32:omni-mad/bubble-small-00-01.png
+
+convert original/Cargo2.bmp -transparent '#000000' -crop 48x48 PNG32:tmp/Cargo2.png
+cp tmp/Cargo2-1.png   omni-mad/cargo-2-00-00.png
+cp tmp/Cargo2-2.png   omni-mad/cargo-2-01-00.png
+cp tmp/Cargo2-6.png   omni-mad/cargo-2-02-00.png
+cp tmp/Cargo2-10.png  omni-mad/cargo-2-03-00.png
+cp tmp/Cargo2-9.png   omni-mad/cargo-2-04-00.png
+cp tmp/Cargo2-8.png   omni-mad/cargo-2-05-00.png
+cp tmp/Cargo2-4.png   omni-mad/cargo-2-06-00.png
+cp tmp/Cargo2-0.png   omni-mad/cargo-2-07-00.png
+
+# Note: this is not exact!
+convert original/Pship2.bmp -transparent '#454e5b' -crop 24x24 PNG32:tmp/Pship2.png
+cp tmp/Pship2-2.png  omni-mad/pship-2-00-00.png
+cp tmp/Pship2-3.png  omni-mad/pship-2-01-00.png
+cp tmp/Pship2-4.png  omni-mad/pship-2-02-00.png
+cp tmp/Pship2-10.png omni-mad/pship-2-03-00.png
+cp tmp/Pship2-16.png omni-mad/pship-2-04-00.png
+cp tmp/Pship2-22.png omni-mad/pship-2-05-00.png
+cp tmp/Pship2-28.png omni-mad/pship-2-06-00.png
+cp tmp/Pship2-27.png omni-mad/pship-2-07-00.png
+cp tmp/Pship2-26.png omni-mad/pship-2-08-00.png
+cp tmp/Pship2-25.png omni-mad/pship-2-09-00.png
+cp tmp/Pship2-24.png omni-mad/pship-2-0a-00.png
+cp tmp/Pship2-18.png omni-mad/pship-2-0b-00.png
+cp tmp/Pship2-12.png omni-mad/pship-2-0c-00.png
+cp tmp/Pship2-6.png  omni-mad/pship-2-0d-00.png
+cp tmp/Pship2-0.png  omni-mad/pship-2-0e-00.png
+cp tmp/Pship2-1.png  omni-mad/pship-2-0f-00.png
+
+convert original/Main2.bmp -transparent '#454e5b'  PNG32:omni-mad/main-2-00-00.png
+
+convert original/Main.bmp -transparent '#454e5b' -crop 320x50+0+150 PNG32:omni-mad/main-background-00-00.png
+
+convert original/Main.bmp -transparent '#454e5b' -crop 76x24+201+99 PNG32:omni-mad/main-bar-11-00.png
+
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 67,3 69,21" PNG32:omni-mad/main-bar-10-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 63,3 69,21" PNG32:omni-mad/main-bar-0f-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 59,3 69,21" PNG32:omni-mad/main-bar-0e-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 55,3 69,21" PNG32:omni-mad/main-bar-0d-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 51,3 69,21" PNG32:omni-mad/main-bar-0c-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 47,3 69,21" PNG32:omni-mad/main-bar-0b-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 43,3 69,21" PNG32:omni-mad/main-bar-0a-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 39,3 69,21" PNG32:omni-mad/main-bar-09-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 35,3 69,21" PNG32:omni-mad/main-bar-08-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 31,3 69,21" PNG32:omni-mad/main-bar-07-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 27,3 69,21" PNG32:omni-mad/main-bar-06-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 23,3 69,21" PNG32:omni-mad/main-bar-05-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 19,3 69,21" PNG32:omni-mad/main-bar-04-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 15,3 69,21" PNG32:omni-mad/main-bar-03-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 11,3 69,21" PNG32:omni-mad/main-bar-02-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle  7,3 69,21" PNG32:omni-mad/main-bar-01-00.png
+convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle  3,3 69,21" PNG32:omni-mad/main-bar-00-00.png
