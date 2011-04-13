@@ -127,7 +127,7 @@ convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 11,3 69,21"
 convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle  7,3 69,21" PNG32:omni-mad/main-bar-01-00.png
 convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle  3,3 69,21" PNG32:omni-mad/main-bar-00-00.png
 
-convert original/Crystal2.bmp -transparent '#454e5b' -crop 24x24 PNG32:tmp/Crystal2.png
+convert original/Crystal2.bmp -transparent '#000000' -crop 24x24 PNG32:tmp/Crystal2.png
 cp tmp/Crystal2-2.png  omni-mad/crystal-2-00-00.png
 cp tmp/Crystal2-3.png  omni-mad/crystal-2-00-01.png
 cp tmp/Crystal2-4.png  omni-mad/crystal-2-00-02.png
