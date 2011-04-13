@@ -20,3 +20,6 @@ Might change at any time.
 I only work on this around 15 minutes every day during my lunchbreaks,
 so it might take a while until it's finished.
 
+And yes, in some cases the cut could be much tighter, but I want to get through all of them once
+before I start to optimize.
+

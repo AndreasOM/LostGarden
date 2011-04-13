@@ -126,3 +126,22 @@ convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 15,3 69,21"
 convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle 11,3 69,21" PNG32:omni-mad/main-bar-02-00.png
 convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle  7,3 69,21" PNG32:omni-mad/main-bar-01-00.png
 convert omni-mad/main-bar-11-00.png -fill '#000000' -draw "rectangle  3,3 69,21" PNG32:omni-mad/main-bar-00-00.png
+
+convert original/Crystal2.bmp -transparent '#454e5b' -crop 24x24 PNG32:tmp/Crystal2.png
+cp tmp/Crystal2-2.png  omni-mad/crystal-2-00-00.png
+cp tmp/Crystal2-3.png  omni-mad/crystal-2-00-01.png
+cp tmp/Crystal2-4.png  omni-mad/crystal-2-00-02.png
+cp tmp/Crystal2-18.png omni-mad/crystal-2-00-03.png
+cp tmp/Crystal2-12.png omni-mad/crystal-2-00-04.png
+cp tmp/Crystal2-6.png  omni-mad/crystal-2-00-05.png
+cp tmp/Crystal2-0.png  omni-mad/crystal-2-00-06.png
+cp tmp/Crystal2-1.png  omni-mad/crystal-2-00-07.png
+
+convert original/Debris2.bmp -transparent '#000000' -crop 24x24 PNG32:tmp/Debris2.png
+cp tmp/Debris2-0.png  omni-mad/debris-2-00-00.png
+cp tmp/Debris2-1.png  omni-mad/debris-2-00-01.png
+cp tmp/Debris2-2.png  omni-mad/debris-2-00-02.png
+cp tmp/Debris2-3.png  omni-mad/debris-2-00-03.png
+cp tmp/Debris2-4.png  omni-mad/debris-2-00-04.png
+cp tmp/Debris2-5.png  omni-mad/debris-2-00-05.png
+
