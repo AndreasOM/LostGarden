@@ -184,11 +184,11 @@ cp tmp/Drone1-6.png  omni-mad/drone-base-00-0d.png
 cp tmp/Drone1-0.png  omni-mad/drone-base-00-0e.png
 cp tmp/Drone1-1.png  omni-mad/drone-base-00-0f.png
 
-convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+192+24 PNG32:omni-mad/drone-drill-00-00.png
-convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+216+24 PNG32:omni-mad/drone-drill-01-00.png
-convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+216+48 PNG32:omni-mad/drone-drill-02-00.png
-convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+216+72 PNG32:omni-mad/drone-drill-03-00.png
-convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+192+72 PNG32:omni-mad/drone-drill-04-00.png
-convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+168+72 PNG32:omni-mad/drone-drill-05-00.png
-convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+168+48 PNG32:omni-mad/drone-drill-06-00.png
-convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+168+24 PNG32:omni-mad/drone-drill-07-00.png
+convert original/Drone2.bmp -transparent '#000000' -crop 24x24+192+24 PNG32:omni-mad/drone-drill-00-00.png
+convert original/Drone2.bmp -transparent '#000000' -crop 24x24+216+24 PNG32:omni-mad/drone-drill-01-00.png
+convert original/Drone2.bmp -transparent '#000000' -crop 24x24+216+48 PNG32:omni-mad/drone-drill-02-00.png
+convert original/Drone2.bmp -transparent '#000000' -crop 24x24+216+72 PNG32:omni-mad/drone-drill-03-00.png
+convert original/Drone2.bmp -transparent '#000000' -crop 24x24+192+72 PNG32:omni-mad/drone-drill-04-00.png
+convert original/Drone2.bmp -transparent '#000000' -crop 24x24+168+72 PNG32:omni-mad/drone-drill-05-00.png
+convert original/Drone2.bmp -transparent '#000000' -crop 24x24+168+48 PNG32:omni-mad/drone-drill-06-00.png
+convert original/Drone2.bmp -transparent '#000000' -crop 24x24+168+24 PNG32:omni-mad/drone-drill-07-00.png
