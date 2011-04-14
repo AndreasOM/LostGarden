@@ -11,8 +11,8 @@ This is a cleaned up version, which might be of help to you ... or it may not.
 
 ## Bundles
 
-### Sinistar
-"[Sinistar](http://www.lostgarden.com/2005/03/download-complete-set-of-sweet-8-bit.html)" art by Daniel Cook (Lostgarden.com)
+### Iron Plague (Sinistar)
+"[Iron Plague (Sinistar)](http://www.lostgarden.com/2005/03/download-complete-set-of-sweet-8-bit.html)" art by Daniel Cook (Lostgarden.com)
 
 Work in progress!
 Might change at any time.
