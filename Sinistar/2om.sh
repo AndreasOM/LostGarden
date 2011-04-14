@@ -137,6 +137,14 @@ cp tmp/Crystal2-6.png  omni-mad/crystal-2-00-05.png
 cp tmp/Crystal2-0.png  omni-mad/crystal-2-00-06.png
 cp tmp/Crystal2-1.png  omni-mad/crystal-2-00-07.png
 
+convert original/Debris1.bmp -transparent '#000000' -crop 24x24 PNG32:tmp/Debris1.png
+cp tmp/Debris1-0.png  omni-mad/debris-1-00-00.png
+cp tmp/Debris1-1.png  omni-mad/debris-1-00-01.png
+cp tmp/Debris1-2.png  omni-mad/debris-1-00-02.png
+cp tmp/Debris1-3.png  omni-mad/debris-1-00-03.png
+cp tmp/Debris1-4.png  omni-mad/debris-1-00-04.png
+cp tmp/Debris1-5.png  omni-mad/debris-1-00-05.png
+
 convert original/Debris2.bmp -transparent '#000000' -crop 24x24 PNG32:tmp/Debris2.png
 cp tmp/Debris2-0.png  omni-mad/debris-2-00-00.png
 cp tmp/Debris2-1.png  omni-mad/debris-2-00-01.png
@@ -145,3 +153,42 @@ cp tmp/Debris2-3.png  omni-mad/debris-2-00-03.png
 cp tmp/Debris2-4.png  omni-mad/debris-2-00-04.png
 cp tmp/Debris2-5.png  omni-mad/debris-2-00-05.png
 
+convert original/Debris3.bmp -transparent '#000000' -crop 24x24 PNG32:tmp/Debris3.png
+cp tmp/Debris3-0.png  omni-mad/debris-3-00-00.png
+cp tmp/Debris3-1.png  omni-mad/debris-3-00-01.png
+cp tmp/Debris3-2.png  omni-mad/debris-3-00-02.png
+cp tmp/Debris3-3.png  omni-mad/debris-3-00-03.png
+cp tmp/Debris3-4.png  omni-mad/debris-3-00-04.png
+cp tmp/Debris3-5.png  omni-mad/debris-3-00-05.png
+
+convert original/Doomday.bmp -transparent '#000000' -crop 48x48 PNG32:tmp/Doomday.png
+cp tmp/Doomday-0.png  omni-mad/doomday-0-00-00.png
+cp tmp/Doomday-1.png  omni-mad/doomday-0-00-01.png
+cp tmp/Doomday-2.png  omni-mad/doomday-0-00-02.png
+
+convert original/Drone1.bmp -transparent '#454e5b' -crop 24x24 PNG32:tmp/Drone1.png
+cp tmp/Drone1-2.png  omni-mad/drone-base-00-00.png
+cp tmp/Drone1-3.png  omni-mad/drone-base-00-01.png
+cp tmp/Drone1-4.png  omni-mad/drone-base-00-02.png
+cp tmp/Drone1-10.png omni-mad/drone-base-00-03.png
+cp tmp/Drone1-16.png omni-mad/drone-base-00-04.png
+cp tmp/Drone1-22.png omni-mad/drone-base-00-05.png
+cp tmp/Drone1-28.png omni-mad/drone-base-00-06.png
+cp tmp/Drone1-27.png omni-mad/drone-base-00-07.png
+cp tmp/Drone1-26.png omni-mad/drone-base-00-08.png
+cp tmp/Drone1-25.png omni-mad/drone-base-00-09.png
+cp tmp/Drone1-24.png omni-mad/drone-base-00-0a.png
+cp tmp/Drone1-18.png omni-mad/drone-base-00-0b.png
+cp tmp/Drone1-12.png omni-mad/drone-base-00-0c.png
+cp tmp/Drone1-6.png  omni-mad/drone-base-00-0d.png
+cp tmp/Drone1-0.png  omni-mad/drone-base-00-0e.png
+cp tmp/Drone1-1.png  omni-mad/drone-base-00-0f.png
+
+convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+192+24 PNG32:omni-mad/drone-drill-00-00.png
+convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+216+24 PNG32:omni-mad/drone-drill-01-00.png
+convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+216+48 PNG32:omni-mad/drone-drill-02-00.png
+convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+216+72 PNG32:omni-mad/drone-drill-03-00.png
+convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+192+72 PNG32:omni-mad/drone-drill-04-00.png
+convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+168+72 PNG32:omni-mad/drone-drill-05-00.png
+convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+168+48 PNG32:omni-mad/drone-drill-06-00.png
+convert original/Drone2.bmp -transparent '#454e5b' -crop 24x24+168+24 PNG32:omni-mad/drone-drill-07-00.png
