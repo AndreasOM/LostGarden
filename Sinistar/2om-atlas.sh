@@ -8,7 +8,9 @@ omnitexture -p 2 -m RGBA8888 -o sinistar-01.otx -s 512 -c xz -x -d omni-mad-atla
 	omni-mad/crystal-2-??-??.png \
 	omni-mad/debris-?-??-??.png \
 	omni-mad/doomday-?-??-??.png \
-	omni-mad/drone-*-??-??.png
+	omni-mad/drone-*-??-??.png \
+	omni-mad/exhaust-*-??-??.png
+	
 omnitexture -p 2 -m RGB888 -o sinistar-interface-opaque.otx -s 512 -c xz -x -d omni-mad-atlas omni-mad/main-background-00-00.png
 omnitexture -p 2 -m RGBA8888 -o sinistar-interface-transparent.otx -s 512 -c xz -x -d omni-mad-atlas omni-mad/main-bar-??-00.png
 

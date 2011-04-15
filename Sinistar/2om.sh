@@ -192,3 +192,39 @@ convert original/Drone2.bmp -transparent '#000000' -crop 24x24+192+72 PNG32:omni
 convert original/Drone2.bmp -transparent '#000000' -crop 24x24+168+72 PNG32:omni-mad/drone-drill-05-00.png
 convert original/Drone2.bmp -transparent '#000000' -crop 24x24+168+48 PNG32:omni-mad/drone-drill-06-00.png
 convert original/Drone2.bmp -transparent '#000000' -crop 24x24+168+24 PNG32:omni-mad/drone-drill-07-00.png
+
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+1+1     PNG32:omni-mad/exhaust-1-00-00.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+109+1   PNG32:omni-mad/exhaust-1-01-00.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+1+109   PNG32:omni-mad/exhaust-1-02-00.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+109+109 PNG32:omni-mad/exhaust-1-03-00.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+1+73    PNG32:omni-mad/exhaust-1-04-00.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+109+73  PNG32:omni-mad/exhaust-1-05-00.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+1+37    PNG32:omni-mad/exhaust-1-06-00.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+109+37  PNG32:omni-mad/exhaust-1-07-00.png
+
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+25+1    PNG32:omni-mad/exhaust-1-00-01.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+134+1   PNG32:omni-mad/exhaust-1-01-01.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+25+109  PNG32:omni-mad/exhaust-1-02-01.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+134+109 PNG32:omni-mad/exhaust-1-03-01.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+25+73   PNG32:omni-mad/exhaust-1-04-01.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+134+73  PNG32:omni-mad/exhaust-1-05-01.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+25+37   PNG32:omni-mad/exhaust-1-06-01.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+134+37  PNG32:omni-mad/exhaust-1-07-01.png
+
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+49+1    PNG32:omni-mad/exhaust-1-00-02.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+158+1   PNG32:omni-mad/exhaust-1-01-02.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+49+109  PNG32:omni-mad/exhaust-1-02-02.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+158+109 PNG32:omni-mad/exhaust-1-03-02.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+49+73   PNG32:omni-mad/exhaust-1-04-02.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+158+73  PNG32:omni-mad/exhaust-1-05-02.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+49+37   PNG32:omni-mad/exhaust-1-06-02.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+158+37  PNG32:omni-mad/exhaust-1-07-02.png
+
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+73+1    PNG32:omni-mad/exhaust-1-00-03.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+182+1   PNG32:omni-mad/exhaust-1-01-03.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+73+109  PNG32:omni-mad/exhaust-1-02-03.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+182+109 PNG32:omni-mad/exhaust-1-03-03.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+73+73   PNG32:omni-mad/exhaust-1-04-03.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+182+73  PNG32:omni-mad/exhaust-1-05-03.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+73+37   PNG32:omni-mad/exhaust-1-06-03.png
+convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+182+37  PNG32:omni-mad/exhaust-1-07-03.png
