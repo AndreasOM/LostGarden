@@ -229,14 +229,14 @@ convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+182+73  PNG32:o
 convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+73+37   PNG32:omni-mad/exhaust-1-06-03.png
 convert original/Exhaust1.bmp -transparent '#000000' -crop 22x22+182+37  PNG32:omni-mad/exhaust-1-07-03.png
 
-convert original/Explode1.bmp -transparent '#454e5b' -crop 23x23+1+1    PNG32:omni-mad/explode-1-00-00.png
-convert original/Explode1.bmp -transparent '#454e5b' -crop 23x23+25+1   PNG32:omni-mad/explode-1-00-01.png
-convert original/Explode1.bmp -transparent '#454e5b' -crop 23x23+49+1   PNG32:omni-mad/explode-1-00-02.png
-convert original/Explode1.bmp -transparent '#454e5b' -crop 23x23+73+1   PNG32:omni-mad/explode-1-00-03.png
-convert original/Explode1.bmp -transparent '#454e5b' -crop 23x23+97+1   PNG32:omni-mad/explode-1-00-04.png
-convert original/Explode1.bmp -transparent '#454e5b' -crop 23x23+121+1  PNG32:omni-mad/explode-1-00-05.png
-convert original/Explode1.bmp -transparent '#454e5b' -crop 23x23+145+1  PNG32:omni-mad/explode-1-00-06.png
-convert original/Explode1.bmp -transparent '#454e5b' -crop 23x23+169+1  PNG32:omni-mad/explode-1-00-07.png
+convert original/Explode1.bmp -transparent '#000000' -crop 23x23+1+1    PNG32:omni-mad/explode-1-00-00.png
+convert original/Explode1.bmp -transparent '#000000' -crop 23x23+25+1   PNG32:omni-mad/explode-1-00-01.png
+convert original/Explode1.bmp -transparent '#000000' -crop 23x23+49+1   PNG32:omni-mad/explode-1-00-02.png
+convert original/Explode1.bmp -transparent '#000000' -crop 23x23+73+1   PNG32:omni-mad/explode-1-00-03.png
+convert original/Explode1.bmp -transparent '#000000' -crop 23x23+97+1   PNG32:omni-mad/explode-1-00-04.png
+convert original/Explode1.bmp -transparent '#000000' -crop 23x23+121+1  PNG32:omni-mad/explode-1-00-05.png
+convert original/Explode1.bmp -transparent '#000000' -crop 23x23+145+1  PNG32:omni-mad/explode-1-00-06.png
+convert original/Explode1.bmp -transparent '#000000' -crop 23x23+169+1  PNG32:omni-mad/explode-1-00-07.png
 
 convert original/Guard.bmp -transparent '#454e5b' -crop 29x29+48+15  PNG32:omni-mad/guard-0-00-00.png
 convert original/Guard.bmp -transparent '#454e5b' -crop 29x29+77+15  PNG32:omni-mad/guard-0-01-00.png
