@@ -13,10 +13,9 @@ Check.bmp -> later
 
 Crystal1.bmp - layout ?
 
-Exhaust1.bmp
-Exhaust2.bmp
-Exhaust3.bmp
-Explode1.bmp
+Exhaust2.bmp - rotations ?
+Exhaust3.bmp - rotations ?
+
 Explode2.bmp
 Explode3.bmp
 Explode4.bmp
@@ -39,7 +38,8 @@ GameMenu.bmp
 GravBcon.bmp
 GravGrid.bmp
 GravPool.bmp
-Guard.bmp
+
+[next]
 Gun.bmp
 Hiscore.bmp
 Hunter1.bmp
