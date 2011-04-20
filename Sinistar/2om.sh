@@ -246,3 +246,21 @@ convert original/Guard.bmp -transparent '#454e5b' -crop 29x29+48+79  PNG32:omni-
 convert original/Guard.bmp -transparent '#454e5b' -crop 29x29+15+79  PNG32:omni-mad/guard-0-05-00.png
 convert original/Guard.bmp -transparent '#454e5b' -crop 29x29+15+48  PNG32:omni-mad/guard-0-06-00.png
 convert original/Guard.bmp -transparent '#454e5b' -crop 29x29+15+15  PNG32:omni-mad/guard-0-07-00.png
+
+convert original/Hunter1.bmp -transparent '#000000' -crop 23x23+25+1  PNG32:omni-mad/hunter-1-00-00.png
+convert original/Hunter1.bmp -transparent '#000000' -crop 23x23+49+1  PNG32:omni-mad/hunter-1-01-00.png
+convert original/Hunter1.bmp -transparent '#000000' -crop 23x23+49+25 PNG32:omni-mad/hunter-1-02-00.png
+convert original/Hunter1.bmp -transparent '#000000' -crop 23x23+49+49 PNG32:omni-mad/hunter-1-03-00.png
+convert original/Hunter1.bmp -transparent '#000000' -crop 23x23+25+49 PNG32:omni-mad/hunter-1-04-00.png
+convert original/Hunter1.bmp -transparent '#000000' -crop 23x23+1+49  PNG32:omni-mad/hunter-1-05-00.png
+convert original/Hunter1.bmp -transparent '#000000' -crop 23x23+1+25  PNG32:omni-mad/hunter-1-06-00.png
+convert original/Hunter1.bmp -transparent '#000000' -crop 23x23+1+1   PNG32:omni-mad/hunter-1-07-00.png
+
+convert original/Hunter2.bmp -transparent '#000000' -crop 23x23+25+1  PNG32:omni-mad/hunter-2-00-00.png
+convert original/Hunter2.bmp -transparent '#000000' -crop 23x23+49+1  PNG32:omni-mad/hunter-2-01-00.png
+convert original/Hunter2.bmp -transparent '#000000' -crop 23x23+49+25 PNG32:omni-mad/hunter-2-02-00.png
+convert original/Hunter2.bmp -transparent '#000000' -crop 23x23+49+49 PNG32:omni-mad/hunter-2-03-00.png
+convert original/Hunter2.bmp -transparent '#000000' -crop 23x23+25+49 PNG32:omni-mad/hunter-2-04-00.png
+convert original/Hunter2.bmp -transparent '#000000' -crop 23x23+1+49  PNG32:omni-mad/hunter-2-05-00.png
+convert original/Hunter2.bmp -transparent '#000000' -crop 23x23+1+25  PNG32:omni-mad/hunter-2-06-00.png
+convert original/Hunter2.bmp -transparent '#000000' -crop 23x23+1+1   PNG32:omni-mad/hunter-2-07-00.png
