@@ -19,7 +19,8 @@ omnitexture -p 2 --border=1 -m RGBA8888 -o sinistar-01.otx -s 1024 -c xz -x -d o
 	omni-mad/explode-*-??-??.png \
 	omni-mad/guard-*-??-??.png \
 	omni-mad/hunter-*-??-??.png \
-	omni-mad/junk-*-??-??.png 
+	omni-mad/junk-*-??-??.png \
+	omni-mad-extra/junk-*-??-??.png 
 	
 omnitexture -p 2 -m RGB888 -o sinistar-interface-opaque.otx -s 512 -c xz -x -d omni-mad-atlas omni-mad/main-background-00-00.png
 omnitexture -p 2 -m RGBA8888 -o sinistar-interface-transparent.otx -s 512 -c xz -x -d omni-mad-atlas omni-mad/main-bar-??-00.png
